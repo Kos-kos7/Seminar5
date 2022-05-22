@@ -1,0 +1,15 @@
+D:\Учеба GB\C#\Seminar5\Task_31\bin\Debug\net6.0\Task_31.exe
+D:\Учеба GB\C#\Seminar5\Task_31\bin\Debug\net6.0\Task_31.deps.json
+D:\Учеба GB\C#\Seminar5\Task_31\bin\Debug\net6.0\Task_31.runtimeconfig.json
+D:\Учеба GB\C#\Seminar5\Task_31\bin\Debug\net6.0\Task_31.dll
+D:\Учеба GB\C#\Seminar5\Task_31\bin\Debug\net6.0\Task_31.pdb
+D:\Учеба GB\C#\Seminar5\Task_31\obj\Debug\net6.0\Task_31.csproj.AssemblyReference.cache
+D:\Учеба GB\C#\Seminar5\Task_31\obj\Debug\net6.0\Task_31.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба GB\C#\Seminar5\Task_31\obj\Debug\net6.0\Task_31.AssemblyInfoInputs.cache
+D:\Учеба GB\C#\Seminar5\Task_31\obj\Debug\net6.0\Task_31.AssemblyInfo.cs
+D:\Учеба GB\C#\Seminar5\Task_31\obj\Debug\net6.0\Task_31.csproj.CoreCompileInputs.cache
+D:\Учеба GB\C#\Seminar5\Task_31\obj\Debug\net6.0\Task_31.dll
+D:\Учеба GB\C#\Seminar5\Task_31\obj\Debug\net6.0\refint\Task_31.dll
+D:\Учеба GB\C#\Seminar5\Task_31\obj\Debug\net6.0\Task_31.pdb
+D:\Учеба GB\C#\Seminar5\Task_31\obj\Debug\net6.0\Task_31.genruntimeconfig.cache
+D:\Учеба GB\C#\Seminar5\Task_31\obj\Debug\net6.0\ref\Task_31.dll
