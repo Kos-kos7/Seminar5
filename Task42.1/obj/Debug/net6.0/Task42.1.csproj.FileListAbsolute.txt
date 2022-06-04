@@ -1,0 +1,15 @@
+D:\Учеба GB\C#\Seminar5\Task42.1\bin\Debug\net6.0\Task42.1.exe
+D:\Учеба GB\C#\Seminar5\Task42.1\bin\Debug\net6.0\Task42.1.deps.json
+D:\Учеба GB\C#\Seminar5\Task42.1\bin\Debug\net6.0\Task42.1.runtimeconfig.json
+D:\Учеба GB\C#\Seminar5\Task42.1\bin\Debug\net6.0\Task42.1.dll
+D:\Учеба GB\C#\Seminar5\Task42.1\bin\Debug\net6.0\Task42.1.pdb
+D:\Учеба GB\C#\Seminar5\Task42.1\obj\Debug\net6.0\Task42.1.csproj.AssemblyReference.cache
+D:\Учеба GB\C#\Seminar5\Task42.1\obj\Debug\net6.0\Task42.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба GB\C#\Seminar5\Task42.1\obj\Debug\net6.0\Task42.1.AssemblyInfoInputs.cache
+D:\Учеба GB\C#\Seminar5\Task42.1\obj\Debug\net6.0\Task42.1.AssemblyInfo.cs
+D:\Учеба GB\C#\Seminar5\Task42.1\obj\Debug\net6.0\Task42.1.csproj.CoreCompileInputs.cache
+D:\Учеба GB\C#\Seminar5\Task42.1\obj\Debug\net6.0\Task42.1.dll
+D:\Учеба GB\C#\Seminar5\Task42.1\obj\Debug\net6.0\refint\Task42.1.dll
+D:\Учеба GB\C#\Seminar5\Task42.1\obj\Debug\net6.0\Task42.1.pdb
+D:\Учеба GB\C#\Seminar5\Task42.1\obj\Debug\net6.0\Task42.1.genruntimeconfig.cache
+D:\Учеба GB\C#\Seminar5\Task42.1\obj\Debug\net6.0\ref\Task42.1.dll
